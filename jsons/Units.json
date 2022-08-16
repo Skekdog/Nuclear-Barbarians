@@ -8,6 +8,6 @@
     "rangedStrength": 250,
     "cost": 40,
     "replaces": "Warrior",
-    "uniques": ["Nuclear weapon of Strength [2 ] ","Blast radius [2]"]
+    "uniques": ["Nuclear weapon of Strength [2]","Blast radius [2]"]
     "attackSound": "nuke"
 }]
