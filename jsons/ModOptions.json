@@ -1,1 +1,4 @@
-{"isBaseRuleset": false,"unitsToRemove":{"Brute"}}
+{
+    "isBaseRuleset": false,
+    "unitsToRemove": {"Brute"}
+}
