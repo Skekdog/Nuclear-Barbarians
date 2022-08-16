@@ -5,11 +5,11 @@
 "uniqueTo":"Barbarians",
 "range":10,
 "movement":3,
-"strength":250,
-"rangedStrength":250,
+"strength":10,
+"rangedStrength":10,
 "cost":40,
 "replaces":"Warrior",
-"uniques":["Nuclear weapon of Strength [2]","Blast radius [2]"],
+"uniques":["Nuclear weapon of Strength [1]","Blast radius [1]","Self-destructs when attacking"],
 "attackSound":"nuke"
 }
 ]
