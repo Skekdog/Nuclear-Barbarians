@@ -1,4 +1,5 @@
-[{ 
+[
+{ 
     "name": "Pocket Sand",
     "unitType": "Archery",
     "uniqueTo": "Barbarians",
@@ -10,4 +11,5 @@
     "replaces": "Warrior",
     "uniques": ["Nuclear weapon of Strength [2]","Blast radius [2]"]
     "attackSound": "nuke"
-}]
+}
+]
