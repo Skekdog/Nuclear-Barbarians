@@ -1,6 +1,6 @@
 { 
      "isBaseRuleset": false, 
-     "unitsToRemove": { 
+     "unitsToRemove": [
          "Brute",
-     } 
+     ] 
  }
