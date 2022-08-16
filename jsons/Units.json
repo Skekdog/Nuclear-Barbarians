@@ -1,15 +1,15 @@
 [
-{ 
-    "name":"Pocket Sand",
-    "unitType":"Archery",
-    "uniqueTo":"Barbarians",
-    "range":10,
-    "movement":3,
-    "strength":250,
-    "rangedStrength":250,
-    "cost":40,
-    "replaces":"Warrior",
-    "uniques":["Nuclear weapon of Strength","Blast radius"],
-    "attackSound":"nuke"
+{
+"name":"Pocket Sand",
+"unitType":"Archery",
+"uniqueTo":"Barbarians",
+"range":10,
+"movement":3,
+"strength":250,
+"rangedStrength":250,
+"cost":40,
+"replaces":"Warrior",
+"uniques":["Nuclear weapon of Strength [2]","Blast radius [2]"],
+"attackSound":"nuke"
 }
 ]
