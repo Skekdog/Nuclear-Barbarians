@@ -1,6 +1,7 @@
 [
 { 
-"name": "Barb Bomb", 
-"movementType": "Land", 
-"uniques": ["Aircraft"] 
-},
+"name":"Barb Bomb",
+"movementType":"Land",
+"uniques":["Aircraft"]
+}
+]
