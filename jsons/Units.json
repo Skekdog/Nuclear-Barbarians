@@ -1,7 +1,7 @@
 [
 {
 "name":"Pocket Sand",
-"unitType":"Archery",
+"unitType":"Missile",
 "uniqueTo":"Barbarians",
 "range":10,
 "movement":3,
@@ -9,7 +9,7 @@
 "rangedStrength":10,
 "cost":40,
 "replaces":"Warrior",
-"uniques":["Nuclear weapon of Strength [1]","Blast radius [1]","Self-destructs when attacking"],
+"uniques":["Nuclear weapon of Strength [2]","Blast radius [2]","Self-destructs when attacking"],
 "attackSound":"nuke"
 }
 ]
