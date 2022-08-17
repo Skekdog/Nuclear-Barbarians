@@ -1,8 +1,9 @@
 [
 {
 "name":"Pocket Sand",
-"unitType":"Missile",
+"unitType":"Archery",
 "uniqueTo":"Barbarians",
+"sight":3
 "range":10,
 "movement":3,
 "strength":10,
