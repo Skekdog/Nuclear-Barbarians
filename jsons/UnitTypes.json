@@ -1,7 +1,7 @@
 [
 { 
 "name":"Barb Bomb",
-"movementType":"Land",
-"uniques":["Aircraft"]
+"movementType":"Air",
+"uniques":["Self-destructs when attacking"]
 }
 ]
