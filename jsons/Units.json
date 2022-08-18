@@ -3,14 +3,14 @@
 "name":"Pocket Sand",
 "unitType":"Barb Bomb",
 "uniqueTo":"Barbarians",
-"sight":3
+"sight":10
 "range":10,
-"movement":3,
+"movement":10,
 "strength":10,
 "rangedStrength":10,
 "cost":40,
 "replaces":"Warrior",
-"uniques":["Nuclear weapon of Strength [2]","Blast radius [2]","Self-destructs when attacking"],
+"uniques":["Nuclear weapon of Strength [10],"Blast radius [10]","Self-destructs when attacking"],
 "attackSound":"nuke"
 }
 ]
