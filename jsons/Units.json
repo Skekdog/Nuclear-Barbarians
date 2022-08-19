@@ -7,9 +7,8 @@
 "range":1,
 "movement":1,
 "strength":1,
-"rangedStrength":1,
-"cost":40,
-"replaces":"Warrior",
+"rangedStrength":100,
+"cost":100,
 "uniques":["Nuclear weapon of Strength [1]","Blast radius [0]","Self-destructs when attacking"],
 "attackSound":"nuke"
 }
